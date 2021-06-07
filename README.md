@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @metalkapil
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning creating things.
+- 🌱 I’m currently learning to create things.
 - 💞️ I’m looking to collaborate on lot of things relating creating and improvements.
 - 📫 How to reach me ...<https://github.com/metalkapil/>
 
